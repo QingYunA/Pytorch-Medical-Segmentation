@@ -36,7 +36,7 @@ We are planning a major update to the code in the near future, so if you have an
 
 | Publication Date | Model Name | The First and Last Authors |  Title | Reference|
 | :---: | :---: | :---: | :---: | :---: |
-| 2016-10 |  3D U-Net  | $${\c{C}}i{\c{c}}ek$$ and Ronneberger, Olaf | 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation | [MICCAI2016](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_49)|
+| 2016-10 |  3D U-Net  | Özgün Çiçek and Ronneberger, Olaf | 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation | [MICCAI2016](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_49)|
 | 2016-10 | 3D V-Net | Fausto Milletari and Seyed-Ahmad Ahmadi | V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation | [3DV2016](https://ieeexplore.ieee.org/abstract/document/7785132) |
 | 2017-09 | 3D DenseVoxelNet  | Lequan Yu and Jing Qin & Pheng-Ann Heng | Automatic 3D Cardiovascular MR Segmentation with Densely-Connected Volumetric ConvNets | [MICCAI2017](https://link.springer.com/chapter/10.1007/978-3-319-66185-8_33) |
 | 2017-09 | 3D DenseNet | Toan Duc Bui and Taesup Moon | 3D Densely Convolutional Networks for Volumetric Segmentation | [arxiv](https://arxiv.org/abs/1709.03199) |
