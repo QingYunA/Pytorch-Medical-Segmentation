@@ -32,7 +32,7 @@ We are planning a major update to the code in the near future, so if you have an
 * If you want to use a **multi-category** program, please modify the corresponding codes by yourself. I cannot identify your specific categories.
 * Whether in 2D or 3D, this project is processed using **patch**. Therefore, images do not have to be strictly the same size. In 2D, however, you should set the patch large enough.
 
-## models have completed in project
+## Models have Completed in Project
 
 | Publication Date | Model Name | The First and Last Authors |  Title | Reference|
 | :---: | :---: | :---: | :---: | :---: |
